@@ -1,2 +1,1 @@
-# CSM-158-C-
-This repository is created to host my projects in CSM 158(C++)  journey in my first year in the University.
+I am Agnes Maglo.A student pursing BSC.COMPUTER SCIENCE. I want to use this platform as an avenue to showcase my assignments and projects in my CS journey.
